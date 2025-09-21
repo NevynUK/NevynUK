@@ -1,4 +1,4 @@
-## About Me
+## <p align="center">About NevynUK</p>
 
 Firmware Engineer specialising in C/C++ code running on STM32 and ESP32 microcontrollers.  Main focus is currently:
 
